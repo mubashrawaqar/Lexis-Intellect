@@ -1,0 +1,11 @@
+gradio
+groq
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+pypdf
+sentence-transformers
+faiss-cpu
+unstructured[pptx]
+python-pptx
